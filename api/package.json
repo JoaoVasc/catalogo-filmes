@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "json-server --watch movies.json --port 3002"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
